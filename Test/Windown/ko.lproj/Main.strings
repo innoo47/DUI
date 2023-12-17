@@ -1,0 +1,87 @@
+
+/* Class = "UIButton"; configuration.title = " 마이페이지"; ObjectID = "0gm-cD-aYl"; */
+"0gm-cD-aYl.configuration.title" = " 마이페이지";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0gm-cD-aYl"; */
+"0gm-cD-aYl.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "게시판"; ObjectID = "8bD-UZ-iQq"; */
+"8bD-UZ-iQq.text" = "게시판";
+
+/* Class = "UITabBarItem"; title = "게시판"; ObjectID = "FjW-7Y-eaL"; */
+"FjW-7Y-eaL.title" = "게시판";
+
+/* Class = "UIButton"; configuration.title = " 건물"; ObjectID = "Jdc-H3-RMp"; */
+"Jdc-H3-RMp.configuration.title" = " 건물";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Jdc-H3-RMp"; */
+"Jdc-H3-RMp.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " 대전대 근처 음식점"; ObjectID = "N53-iO-nYa"; */
+"N53-iO-nYa.configuration.title" = " 대전대 근처 음식점";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "N53-iO-nYa"; */
+"N53-iO-nYa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "내용"; ObjectID = "OcY-BE-jk0"; */
+"OcY-BE-jk0.text" = "내용";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PUK-y8-V2y"; */
+"PUK-y8-V2y.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "홈"; ObjectID = "Qtk-Vn-7CU"; */
+"Qtk-Vn-7CU.title" = "홈";
+
+/* Class = "UITabBarItem"; title = "대전대학교 교내"; ObjectID = "R3F-gg-NIo"; */
+"R3F-gg-NIo.title" = "대전대학교 교내";
+
+/* Class = "UILabel"; text = "시간"; ObjectID = "SM9-eE-RFK"; */
+"SM9-eE-RFK.text" = "시간";
+
+/* Class = "UILabel"; text = "제목"; ObjectID = "VV2-m8-Zo0"; */
+"VV2-m8-Zo0.text" = "제목";
+
+/* Class = "UIButton"; configuration.title = " 식당"; ObjectID = "WX7-Fn-59J"; */
+"WX7-Fn-59J.configuration.title" = " 식당";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WX7-Fn-59J"; */
+"WX7-Fn-59J.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "주변 음식점"; ObjectID = "Xid-SC-81t"; */
+"Xid-SC-81t.title" = "주변 음식점";
+
+/* Class = "UIButton"; configuration.title = " 설정"; ObjectID = "ejG-8g-Xx5"; */
+"ejG-8g-Xx5.configuration.title" = " 설정";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ejG-8g-Xx5"; */
+"ejG-8g-Xx5.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " 주차"; ObjectID = "kz5-2s-FvR"; */
+"kz5-2s-FvR.configuration.title" = " 주차";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kz5-2s-FvR"; */
+"kz5-2s-FvR.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " 카페"; ObjectID = "pG4-3m-kJX"; */
+"pG4-3m-kJX.configuration.title" = " 카페";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pG4-3m-kJX"; */
+"pG4-3m-kJX.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " 자유게시판"; ObjectID = "pgJ-jh-JXC"; */
+"pgJ-jh-JXC.configuration.title" = " 자유게시판";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pgJ-jh-JXC"; */
+"pgJ-jh-JXC.normalTitle" = "Button";
+
+/* Class = "UISearchBar"; pii-kJ-0c5.scopeButtonTitles[0] = "Title"; ObjectID = "pii-kJ-0c5"; */
+"pii-kJ-0c5.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; pii-kJ-0c5.scopeButtonTitles[1] = "Title"; ObjectID = "pii-kJ-0c5"; */
+"pii-kJ-0c5.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UIButton"; configuration.title = " 대전대 교내 편의시설"; ObjectID = "yGW-BO-HxP"; */
+"yGW-BO-HxP.configuration.title" = " 대전대 교내 편의시설";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yGW-BO-HxP"; */
+"yGW-BO-HxP.normalTitle" = "Button";
