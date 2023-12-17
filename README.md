@@ -2,5 +2,5 @@
 
 기술스택
 - Swift
-- Google Map iOS SDK
+- Google Maps iOS SDK
 - Firebase Realtime Database
